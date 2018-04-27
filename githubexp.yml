@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: prom-k8s
+  name: github-k8s
 data:
   prometheus.yml: |    
     global:
